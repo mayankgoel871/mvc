@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Nagarro.BookReading.Web",
+    "\\Nagarro.BookReading.Web\\Controllers",
+    "\\Nagarro.BookReading.Web\\Models",
+    "\\Nagarro.BookReading.Web\\Services",
+    "\\Nagarro.BookReading.Web\\Views",
+    "\\Nagarro.BookReading.Web\\Views\\Comment",
+    "\\Nagarro.BookReading.Web\\Views\\Event",
+    "\\Nagarro.BookReading.Web\\Views\\Home",
+    "\\Nagarro.BookReading.Web\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Nagarro.BookReading.Web\\Views\\Event\\ViewDetails.cshtml",
+  "PreviewInSolutionExplorer": false
+}
